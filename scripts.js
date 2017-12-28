@@ -4,3 +4,5 @@ var button = document.getElementById('get-joke');
 button.addEventListener('click', function() {
 	getJoke();
 });
+
+var paragraph = document.getElementById('joke');
